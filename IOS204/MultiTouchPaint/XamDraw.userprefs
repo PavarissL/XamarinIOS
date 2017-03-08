@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AEB235DE-304C-44FD-8F2A-A9EFF6128423}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamDraw/XamDrawViewController.cs">
+    <Files>
+      <File FileName="XamDraw/XamDrawViewController.cs" Line="13" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamDraw PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.482DC27A-1881-4CAE-AD6E-EFEBE052BA7B" />
+</Properties>

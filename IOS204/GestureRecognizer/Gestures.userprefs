@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CCA1AFE2-3082-406B-BFA5-373B7D56A590}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gestures/GesturesViewController.cs">
+    <Files>
+      <File FileName="Gestures/GesturesViewController.cs" Line="55" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Gestures PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.482DC27A-1881-4CAE-AD6E-EFEBE052BA7B" />
+  <MultiItemStartupConfigurations />
+</Properties>

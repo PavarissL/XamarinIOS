@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{57F79741-FA18-45C2-9CE9-F0C932811898}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DragAndSnap/DragAndSnapViewController.cs">
+    <Files>
+      <File FileName="DragAndSnap/DragAndSnapViewController.cs" Line="26" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DragAndSnap PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.482DC27A-1881-4CAE-AD6E-EFEBE052BA7B" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
